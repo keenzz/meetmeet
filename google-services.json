@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "299653157110",
+    "firebase_url": "https://meetmeetapps-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "meetmeetapps",
+    "storage_bucket": "meetmeetapps.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299653157110:android:bf4c9c9b5b16df2fcc5cd7",
+        "android_client_info": {
+          "package_name": "com.metingo.meetmeet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1DeiklmiYX0qGDYxRKla6sqI1aEHgNok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
